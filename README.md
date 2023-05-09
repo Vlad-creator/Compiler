@@ -14,7 +14,7 @@ It will create the project in ```build```
 >./numlex <file.pcl> //to generate llvm file : file.pcl.ll
 ```
 ```cpp
->clang++ <file.pcl.ll> ../pcl_lib/lib.cpp <directory> //to run compile llvm file with pcl_lib
+>clang++ <file.pcl.ll> ../pcl_lib/lib.cpp //to run compile llvm file with pcl_lib
 ```
 
 ## Gratitude
